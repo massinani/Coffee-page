@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sun and Moon Café</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="hero">
+        <div class="hero-content">
+            <h1>Sun and Moon Café</h1>           
+        </div>
+    </header>
+
+    <section class="about">
+        <div class="content">
+            <h2>Sobre Nós</h2>
+            <p>A experiência de visitar cafés globais vai além da degustação do café; é uma oportunidade de se conectar com as pessoas locais, entender suas rotinas diárias e apreciar a hospitalidade e a criatividade que cada estabelecimento oferece. É uma forma de explorar novas culturas através dos sentidos, tornando cada visita a um café uma pequena aventura em si. </p>
+        </div>
+    </section>
+
+    <section class="services">
+        <div class="content">
+            <h2>Nossos Serviços</h2>
+            <ul>
+                <li>Degustação de Cafés Especiais</li>
+                <li>Menu de Brunch Gourmet</li>
+                <li>Harmonização de Café e Queijo </li>
+                <li>Eventos Temáticos</li>
+            </ul>
+        </div>
+    </section>
+
+    <footer>
+        <div class="content">
+          
+            <p>&copy; 2024 Sun and Moon Café. Todos os direitos reservados.</p>
+          <button> Fale conosco</button><br>
+        </div>
+    </footer>
+</body>
+</html>
